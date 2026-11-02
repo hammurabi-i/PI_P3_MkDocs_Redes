@@ -1,0 +1,33 @@
+site_name: Guia basica de redes informaticas
+site_description: Documentacio introductoria sobre xarxes, adreces IP i diagnost
+author: Diego
+site_url: https://USUARIO.github.io/PI_P3_MkDocs_Redes/
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: cyan
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Inicio: index.md
+  - Fundamentos de redes: fundamentos.md
+  - Direccionamiento IP: direccionamiento.md
+  - Diagnostico de red: diagnostico.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - tables
+
+extra_css:
+  - css/extra.css

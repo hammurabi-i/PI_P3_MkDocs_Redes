@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+<rect width="900" height="380" rx="18" fill="#f3f6fb"/>
+<g stroke="#536dfe" stroke-width="5"><path d="M450 180 L190 75 M450 180 L710 75 M450 180 L190 300 M450 180 L710 300 M450 180 V55"/></g>
+<g fill="#fff" stroke="#263b80" stroke-width="3"><rect x="370" y="145" width="160" height="70" rx="12"/><rect x="115" y="40" width="150" height="65" rx="12"/><rect x="635" y="40" width="150" height="65" rx="12"/><rect x="115" y="270" width="150" height="65" rx="12"/><rect x="635" y="270" width="150" height="65" rx="12"/><rect x="375" y="20" width="150" height="65" rx="12"/></g>
+<g font-family="Arial" font-size="21" text-anchor="middle" fill="#172554"><text x="450" y="187">Switch</text><text x="190" y="80">PC 1</text><text x="710" y="80">PC 2</text><text x="190" y="310">PC 3</text><text x="710" y="310">PC 4</text><text x="450" y="60">Servidor</text></g>
+</svg>

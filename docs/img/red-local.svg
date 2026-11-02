@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<rect width="900" height="360" rx="18" fill="#f3f6fb"/>
+<g stroke="#536dfe" stroke-width="5" fill="none"><path d="M450 95 V165 M450 165 H170 V245 M450 165 V245 M450 165 H730 V245"/></g>
+<g fill="#fff" stroke="#263b80" stroke-width="3"><rect x="365" y="35" width="170" height="62" rx="12"/><rect x="90" y="245" width="160" height="70" rx="12"/><rect x="370" y="245" width="160" height="70" rx="12"/><rect x="650" y="245" width="160" height="70" rx="12"/></g>
+<g font-family="Arial" font-size="22" text-anchor="middle" fill="#172554"><text x="450" y="74">Router</text><text x="170" y="287">PC</text><text x="450" y="287">Portatil</text><text x="730" y="287">Impresora</text></g>
+<text x="450" y="205" font-family="Arial" font-size="18" text-anchor="middle" fill="#334155">Red local (LAN)</text>
+</svg>
