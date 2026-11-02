@@ -1,0 +1,8 @@
+/* Pequenos ajustes visuales para la documentacion */
+.md-typeset h1 {
+  font-weight: 700;
+}
+.md-typeset img {
+  border-radius: 8px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
